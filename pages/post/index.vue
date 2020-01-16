@@ -1,6 +1,6 @@
 <template>
-  <div class="index">
-    index
+  <div>
+    post
   </div>
 </template>
 

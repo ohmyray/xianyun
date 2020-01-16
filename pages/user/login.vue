@@ -1,6 +1,6 @@
 <template>
-  <div class="index">
-    index
+  <div>
+    login
   </div>
 </template>
 
